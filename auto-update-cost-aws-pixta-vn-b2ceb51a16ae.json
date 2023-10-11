@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "auto-update-cost-aws-pixta-vn",
+  "private_key_id": "b2ceb51a16ae60a67029960da36b5f31d8a12e8e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBztYZNX+KjXph\n2wv5luRKzg8bIaecAj7ZiElJs72DgoHb65336hcvcFXaAXr+SjW+UrFwHQlh5EPF\ngvyVvytAeVoJZpraz89dwEmV4En95MRlJ0QS4+xaecZzSH7TZYtD6Gw+LtjSUg23\n6HCta78Msy+ClSkHDCMrvVLk1i/DA/RGMaaW7yPilPoYw1O+qIfeCVgEY2tpAfW6\nivMNgc5s0vPJ32lRTkieWrSWD2YlBF3RLEUZZue7uulLDU10rtqzk3RqIo0dZ2At\nLRJGr1llmoQEIEZxBvzCOK6Ac1je88p0uaWZbj670Z2x668gPFTtVafeJSeFg3bc\n3d05cHCLAgMBAAECggEACAwWKINnwYSdjKts7d1UEVivZXyaQKISb5ndesMmnuuv\n7kYndjNkG9yNBzmBT+AcJyqFb5ax3KMYi7G92luCG9huFdUK02pGVynN/fxYIvcS\nwiVFPSH1ns21Oo6YclKiQhzIEc6EKW3hLL4cBgQvsWlNrOn6NohMe/TafxUqdCBt\nZ8nlwiszn04jJcmarlkzulA2ZczVoRUjCFYEgEwXKFkPivMbnhTfX90ZVmDJHmK8\nFjfDHK6gAoINjhI2I09v1ZjtSJBM23Mh0TMniq33aEZ0TP0OBSgrMudxAzJ4bZeb\nEuoFVg7BYfCitj6sfzp+qpjtJBhEk5Jqf0imCH+2kQKBgQDiJ3mn6sAth3ZBRPb1\nj0ka1j6KCnhn1hDGtuo5Es0Jo7bdgnYOWDzG2xIcsI9i8fTjPWZb4/UaB9xBhrx6\nbyNHAm6CiqmexJMjPevyLCe2dQfuq2Tg44yZhDg/4WZvgJB+kzBLVuyylYqnsLgW\n/FaG4+z3qjAzWxC1B+DpsjrurwKBgQDbYo6H8ThjvNTPkC5QRCfgTOzLE9eme+pc\nmLvaw3JTs9P1sKPuJYoDXj0nUVZdg+eLzDIC1Lir/fVNjhMXNyUAYmMtkKz9pgKX\nqwOkinOSPyhy7fW0SxSGs7mLT5X/OeIWBUH7T44hjWIH/AdYqrWl0eeaUaCsdQ0l\n/rAPrkFy5QKBgQChicjgJFI5MzVI0dYE+OAjBz2MpIX0xXceObF8Ku3CIOqRtopV\nHLns4LZDP+prpqBhYI4ovN9qRIsTUwZ1/cSZCCefnyQhgBAJcEWEqf2D2nxcApj/\n+gmH7mWvW3Ur2A1eHAy3A9P2i9KKjTQxVvUHTO8KyMm9JSL97C6/PsvRiQKBgBPj\nMlKGfnskIhKS2m/yTb8amhiqutDfyNYODnF9aD7IPX23PpUXGBTIFTkcOX0OuQ3G\nO/5ftEH7KqKWL4raN+N6B82YoOX5h6CiIxlmZ6WpTgxlH/HxIHI5lqdXVpylbaZb\nYajbhGHsRCe/JBdYmlDm31zw62TW05NPLDyvqkU1AoGBAJg5arKlC5lnT+tuFEuw\nyGlDdIiUiAVo8wisDQxETqgADV86eP+hbaJhW/ARVMJiI8uKj1uVrTjiGjOUG0EW\nSSfZHeAKjeBIM0mGM065ssZN/am+z1Z8ebfYQubEKCV4ILvAqWu2vNI2x5rs1L/9\nj3tqNOLYo00WTdA2eCPKgbmH\n-----END PRIVATE KEY-----\n",
+  "client_email": "auto-update-cost-aws-pixtavn@auto-update-cost-aws-pixta-vn.iam.gserviceaccount.com",
+  "client_id": "116913601008752357840",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/auto-update-cost-aws-pixtavn%40auto-update-cost-aws-pixta-vn.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
